@@ -1,0 +1,6 @@
+{
+  "name": "Hermes",
+  "description": "Hermes Android agent workspace and assistant: Agent Chat, Voice Mode, Skills, Memory, and Device Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
